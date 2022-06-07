@@ -1,0 +1,37 @@
+.bg-lblue{
+    padding: 5px;
+    margin: 0px;
+    width: 800px;
+}
+
+.title-main{
+    font-size: 25px;
+}
+
+.alinhamentos{
+    text-align: center;
+}
+
+.color-blue{
+    color: rgb(2, 79, 196);
+}
+
+.bg-blue{
+    background-color:rgb(2, 79, 196);
+    color:white;
+    padding: 8px;
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+p, h1, h2, small, ul, li{
+    font-family: 'Franklin Gothic Medium';
+}
+
+a{
+    color: rgb(2, 79, 196);
+}
